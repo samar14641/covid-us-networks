@@ -10,3 +10,7 @@ Data:
 * [States adjacency list](https://gist.github.com/neilb/ee60cd179d5eb17d1cb616cdeeda760f) - Edited to add DC and regions
 
 * Counties adjacency list: [Cenus Bureau](https://www.census.gov/programs-surveys/geography/library/reference/county-adjacency-file.html), [NBER](https://www.nber.org/research/data/county-adjacency)
+
+Links to specific COVID-19 data files used:
+
+* [States](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv)
