@@ -1,5 +1,6 @@
 # Data
 county_adjacency.txt
+*_clean.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
