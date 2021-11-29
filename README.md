@@ -13,10 +13,14 @@ Data:
 
 Links to specific COVID-19 data files used:
 
-* [States](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv)
+* [States](https://github.com/nytimes/covid-19-data/blob/master/us-states.csv)
+
+* [Counties](https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv)
 
 Graphs directory:
 
 * Basic networks: *_graph.gml (these are created from network_builder.ipynb)
 
 * Graph metric networks: *_graph_nw_metrics.gml (these are created from network_metrics.ipynb using _graph.gml as a base, and contain network metrics as node properties e.g. betweenness)
+
+* Correlation networks: *_corr.gml (these are created from correlation_networks.ipynb)
